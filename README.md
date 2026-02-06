@@ -1,2 +1,2 @@
 # ViLMIL
-An enhanced MIL-architecture which outperforms SOTA methods in biomarker prediction.
+An enhanced MIL-architecture which outperforms SOTA methods biomarker, risk and survival prediction.
